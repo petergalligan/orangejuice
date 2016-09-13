@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+}
+nav {
+  height: 50px;
+  background-color: #FE7E00;
+  padding-top: 20px;
+}
+
+nav img {
+  height: 20px;
+}
+
+.logo {
+  display: inline;
+  padding-left: 40px;
+}
+
+nav h1 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #fff;
+  font-size: 25px;
+  display: inline;
+  font-weight: 400;
+
+}
+
+nav sup {
+  color: #fff;
+}
+
+ nav span {
+  font-weight: 700;
+}
+
+nav ul {
+  float: right;
+  padding-top: 10px;
+  padding-right: 30px;
+}
+
+nav li {
+  font-family: 'Montserrat Alternates', sans-serif;
+  display: inline;
+  font-size: 14px;
+  color: #fff;
+  padding: 20px;
+}
+
+#searchBar {
+  height: 100px;
+}
+.search {
+  float: right;
+  padding-right: 30px;
+  padding-top: 5px;
+  display: block;
+}
+
+input {
+  font-family: 'Montserrat Alternates', sans-serif;
+  height: 40px;
+  width: 200px;
+  background-color: #EFEFED;
+  border: 1px solid #EFEFED;
+  padding-left: 20px;
+}
+
+button {
+  height: 43px;
+  background-color: #EFEFED;
+  border: 1px solid #EFEFED;
+}
+
+/*CONTENT*/
+#content {
+  height: 250px;
+
+}
+
+#content img {
+  height: 300px;
+}
+
+#content div {
+}
+.mainImage {
+  padding-top: 100px;
+  padding-left: 50px;
+  display: inline;
+}
+
+.mainText {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #FE7E00;
+  font-size: 20px;
+  height: 150px;
+  width: 40%;
+  display: inline;
+  float: right;
+  padding-right: 100px;
+  padding-top: 50px
+}
+
+.mainText span {
+  font-weight: lighter;
+  color: #7ACCC8;
+}
+
+.mainText span:nth-child(1) {
+  font-weight: 700;
+  color: #FE7E00;
+}
+
+button {
+  padding: 5px 40px;
+  margin-top: 10px;
+  margin-right: 30px;
+}
+.quote {
+ background-color: #FE7E00;
+ color: #fff;
+}
+
+.studies {
+  background-color: #7ACCC8;
+  color: #fff;
+}
+
+#blank {
+  height: 100px;
+}
+footer {
+  height: 80px;
+  background-color: #7ACCC8
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
